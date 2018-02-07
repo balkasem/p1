@@ -13,7 +13,7 @@
 				<h2> About me </h2>
 				<p> 
 					I'm Osama Balkasem, I work professionally as a software engineer in Pets Supplies Plus, Livonia Michigan. Currently taking courses in Harvard Extesnion School to pursue a degree in Software Engineering. 
-					In my free time I enjoy reading, playing soccor and tennis. Also, I do vocal performance for traditional Syrian music.
+					In my free time I enjoy reading, playing soccor and tennis. Also, I do vocal singing for traditional Syrian music.
 				</p>
 			<br/>
 				<h2> Random Quote </h2>
